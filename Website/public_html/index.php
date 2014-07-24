@@ -47,8 +47,13 @@ Twitter: <B>#A78gnstNYDSF</B>
 
 Reddit: <A HREF="http://redd.it/2bdq0g">http://redd.it/2bdq0g</A>
  </UL>
-      
 
+<h3>Calendar</h3>
+<UL>
+<iframe src="https://www.google.com/calendar/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=j1gp3o1ingq2f65qhmbo9igjn0%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="800" height="300" frameborder="0" scrolling="no"></iframe>
+      
+<I>Legend: <B>TBV</B>: To Be Verified.</I>
+</UL>
 
 <h3>Volunter</h3>
 
