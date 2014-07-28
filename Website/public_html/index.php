@@ -27,7 +27,7 @@
 
 <H2>Other Actions by other groups</h2>
 <P>
-	<A HREF="http://www.change.org/petitions/governor-andrew-m-cuomo-and-the-new-york-state-legislature-stop-bitlicense-from-harming-small-businesses-and-tech-innovation-in-ny"i Target="Petition">Open Source Financial Developers Association Petition</A>Sign the petition on Change.org</A><BR>
+  <A HREF="http://www.change.org/petitions/governor-andrew-m-cuomo-and-the-new-york-state-legislature-stop-bitlicense-from-harming-small-businesses-and-tech-innovation-in-ny"i Target="Petition">Sign the petition on Change.org</A><BR>
 	This action is driven by the <A HREF="http://osfda.org/" TARGET=OSFDA>Open Source Financial Developers Association</A>.<BR>
 	Share the link : <A HREF="http://bitlicensepetition.org/petition">http://bitlicensepetition.org/petition</A>.<BR>
 	<I>Will be later used as supporting documentation in Article 78</I>
