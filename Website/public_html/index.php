@@ -25,6 +25,11 @@
 </address>
 </UL>
 
+<H2>Other Actions by other groups</h2>
+<P>
+  The <A HREF="http://www.change.org/petitions/governor-andrew-m-cuomo-and-the-new-york-state-legislature-stop-bitlicense-from-harming-small-businesses-and-tech-innovation-in-ny"i Target="Petition">Open Source Financial Developers Association Petition</A><I>Will be later used as supporting documentation in Article 78</A>
+</P>
+
 <h2>What is an Article 78</h2>
 
 <P>
