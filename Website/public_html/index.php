@@ -1,112 +1,87 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<title>Article 78 against NYDFS</title>
-<link href="assets/css/styles.css" type="text/css" rel="stylesheet" />
-</head>
+<? include "live/heather.php" ?>
 
-<body>
-      
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle"><B>Justice Saint George dismissed the complain.</B> <I>(12/27/2017)</I></div>
+	<div class="contentText">
+	<UL>
+		<B><FONT COLOR=BROWN>We are drafting the appeal to this bad decision.</FONT></B>
+	</UL>
+	</p>
+</div>
 
-<UL>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle"><B>A Federal Hearing on Bitcoin in Detroit Michigan</B><BR>US vs Bradley Stetkiw<BR><FONT COLOR=BROWN><B>Tuesday, February 16th, 2018</B></FONT> @ 1:00 pm<BR>
+	<B><FONT SIZE=+1><A HREF="https://www.meetup.com/Article-78-Against-NYDFS/events/245143698" TARGET="MeetupPage">Meetup Information</A></FONT></B><BR>
+	<UL>Courtroom 640<BR>Theodore Levin U.S. Courthouse<BR>231 W. Lafayette Blvd.<BR><B>Detroit, MI</B> 48226<BR></UL>
+</DIV>
 
-<H1>Article 78 against NYFSD</H1>      
+<? /********** NEXT STORY ********/ ?>			
+<div class="contentTitle">Blockmatics: Chino vs. NY BitLicense - Exclusive Interview with Lead Attorney Pierre Ciric.<i>(12 minutes)</i> </div>
+<div class="contentText"><p><BR><iframe width="560" height="315" src="https://www.youtube.com/embed/O4FBuzLg4BU" frameborder="0" allowfullscreen></iframe></P></div>
 
-<H2>Welcome to the website dedicated to Crowfunding to mount an Article 78 action against NYFSD</H2>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle"><B>Hearing in front of Justice Saint George.</B> <I>(10/10/2017)</I></div>
+	<div class="contentText">
+	<UL>
+		<LI><A HREF="/docs/Index-101880-15/18-Hearing/01-Transcript-version.pdf">Transcript of the hearing</A> <I>(PDF - 6 008 KB)</I></LI>
+	</UL>
+	</p>
+</div>
 
-<UL>
-<address>
-	<B>email:</B> article78againstnydfs@gmail.com<BR>
-	<B>twitter:</B> <A HREF="https://twitter.com/A78gnstNYDSF">@A78gnstNYDSF</A><BR>
-	<B>google+:</B> https://plus.google.com/102845644263761409564/posts<BR>
-	<B>facebook:</B> https://www.facebook.com/A78gnstNYDSF<BR>
-	<B>Google Voice:</B> 
-</address>
-</UL>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle"><B>Free Morpheus Titania!</B></div>
+	<div class="contentText">
+		<A HREF="https://www.facebook.com/groups/1931729457074976" TARGET="FREEMORPHEUS"><FONT SIZE=+1><B>People Keep Getting Charged With a Crime for Selling Bitcoin</B></FONT></A>
+	</p>
+</div>
 
-<H2>Other Actions by other groups</h2>
-<P>
-  <A HREF="http://www.change.org/petitions/governor-andrew-m-cuomo-and-the-new-york-state-legislature-stop-bitlicense-from-harming-small-businesses-and-tech-innovation-in-ny"i Target="Petition">Sign the petition on Change.org</A><BR>
-	This action is driven by the <A HREF="http://osfda.org/" TARGET=OSFDA>Open Source Financial Developers Association</A>.<BR>
-	Share the link : <A HREF="http://bitlicensepetition.org/petition">http://bitlicensepetition.org/petition</A>.<BR>
-	<I>Will be later used as supporting documentation in Article 78</I>
-</P>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle"><B>Bitcoin Foundation launches Fundraiser.</B></div>
+	<div class="contentText">
+		<A HREF="https://bitcoinfoundation.org/bitlicense-theo-chino/"><FONT SIZE=+1><B>BitLicense can still be stopped if we use this opportunity</B></FONT></A>
+	</p>
+</div>
 
-<h2>What is an Article 78</h2>
 
-<P>
-An Article 78 proceeding serves as a uniform device to challenge the activities of an administra
-tive agency in court. 
-</P>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle"><B>Llew Claasen, Executive Director of the Bitcoin Foundation.</B></div>
+	<div class="contentText">
+		<A HREF="https://medium.com/bitcoinfoundation/the-foul-smell-of-federal-cryptocurrency-legislation-bd0a58995b60"><FONT SIZE=+1><B>The foul smell of state cryptocurrency legislation</B></FONT></A>
+	</p>
+</div>
 
-<UL>
-<A HREF="http://civilservice.sheerinlaw.com/sheerinlaw.com-Article_78_eBook.pdf" TARGET=New>Understanding Article 78 in New York State</A><BR>
-<A HREF="http://www3.law.columbia.edu/hrlr/jlm/chapter-22.pdf" TARGET=New>A Jailhouse Lawyer's Manual - How to Challenge Administrative Decisions Using Article 78 of the NYCPL</A>
-</UL>  
-     
-<h3>Spread the Word</H3>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle"><B>Off the Hook (<A HREF="https://twitter.com/HackerRadioShow" TARGET="twit"><img src="/images/twit.png"></A>) explain the lawsuit on WBAI 99.5 FM.</B></div>
+<div class="contentText">
+	<p><BR><iframe width="560" height="86" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315210067&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe><BR>
+	<B>Full show on 2600's website:</B> <A HREF="https://www.2600.com/offthehook/2017/0317.html" TARGET="offthehook">www.2600.com/offthehook/2017/0317.html</A> <I>(Air Date: March 29<sup>th</sup> 2017)</I></P>	
+</div>
 
-<UL>
-Twitter: <B>#A78gnstNYDSF</B>
- 
-<blockquote class="twitter-tweet" lang="en"><p>Website is up and running <a href="http://t.co/5otoymcc7Y">http://t.co/5otoymcc7Y</a> but volunteers badly needed <a href="https://twitter.com/hashtag/A78gnstNYDSF?src=hash">#A78gnstNYDSF</a> <a href="https://twitter.com/hashtag/Bitcoin?src=hash">#Bitcoin</a> <a href="https://twitter.com/hashtag/Article78againstNYDSF?src=hash">#Article78againstNYDSF</a> <a href="https://twitter.com/hashtag/NYDSF?src=hash">#NYDSF</a></p>&mdash; Art78 against NYDFS  (@A78gnstNYDSF) <a href="https://twitter.com/A78gnstNYDSF/statuses/491810211611807744">July 23, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle">
+	<B>What is the case about ?</B> Read this great overview of the case.<BR>
+	<A HREF="https://cei.org/blog/new-yorks-bitlicense-trial" TARGET="Article8"><B>CEI Blog:</B> New York's "BitLicense" on Trial.</A>
+</div>
+<div class="contentText">
+	<p><BR><A HREF="https://cei.org/blog/new-yorks-bitlicense-trial" TARGET="Article8"><IMG SRC="/images/CompetitiveEnterprise.jpg"></A></p>
+</div>
 
-Reddit: <A HREF="http://redd.it/2bdq0g">http://redd.it/2bdq0g</A>
- </UL>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle">Pierre Ciric explain Article 78 to Bitcoin Engineers in NYC. <I>(8 minutes)</I></div>
+<div class="contentText">
+	<p><A HREF="http://www.ciriclawfirm.com" TARGET="Lawyer">Pierre Ciric</A>, 
+		an expert in Article 78, explained why the department of financial 
+		services acted arbitrarily and inappropriately by using Bitcoin companies 
+		as "Guinea Pigs" when it promulgated its virtual currency regulation.</p>
+</div>
+<div class="contentText"><BR><P><iframe width="560" height="315" src="https://www.youtube.com/embed/lj0Zzi3KxJc" frameborder="0" allowfullscreen></iframe></P></div>			
 
-<h3>Calendar</h3>
-<UL>
-<P><iframe src="https://www.google.com/calendar/embed?mode=AGENDA&amp;height=300&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=j1gp3o1ingq2f65qhmbo9igjn0%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=America%2FNew_York" style=" border-width:0 " width="800" height="300" frameborder="0" scrolling="no"></iframe></P>
-<P><iframe src="https://www.google.com/calendar/embed?src=article78againstnydfs%40gmail.com&ctz=America/New_York" style="border: 0" width="800" height="300" frameborder="0" scrolling="no"></iframe></P>      
-<BR><I>Legend: <B>TBV</B>: To Be Verified.</I>
-</UL>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle"><B>Keep up with case developments on the Suprement Court Records On-Line Library</B></DIV>
+<div class="contentText"><BR><A HREF="http://iapps.courts.state.ny.us/iscroll/MotionApp.jsp?IndexNo=01018802015&CID=001&APPF=Friday,%20%3Cbr%3E%20%20Oct%2023,%202015&XCID=1" TARGET="NYCourt"><IMG SRC="/images/MotionNew_001.jpg"></A></div>
 
-<h3>Volunter</h3>
+<? /********** NEXT STORY ********/ ?>
+<div class="contentTitle">Listen to Ben Laswky at Cardozo Law School using Bitcoiners as Guinea Pigs. <I>(1 minute)</I></div>
+<div class="contentText"><BR><P><iframe width="560" height="315" src="https://www.youtube.com/embed/-amh1YWco8k" frameborder="0" allowfullscreen></iframe></P></div>
 
-<UL>
-GitHUB: <A HREF="https://github.com/theochino/Article78againstNYDFS">https://github.com/theochino/Article78againstNYDFS</A>
-</UL>
-
-<h3>Donate</h3>
-
-<UL>
-<P>
-	<B>The Goal is 200 BTC.</B>
-</P>
-		
-	<P>
-	Bitcoin:<B><FONT COLOR=RED>178dfs</FONT>WNhT5fT4MBQCEWLWxAZ63kMvkgdW</B>
-  <BR>
-  <A HREF="https://blockchain.info/address/178dfsWNhT5fT4MBQCEWLWxAZ63kMvkgdW">https://blockchain.info/address/178dfsWNhT5fT4MBQCEWLWxAZ63kMvkgdW</A></P>
-
-	<P>
-		<IMG SRC="images/A78gnstNYDSF_bitcoin.png">	
-	</P>
-
-</UL> 
- 
-<h3>Verify</h3> 
-
-<UL>
-<P>
-This website was paid using a donation of 234.2 mBTC from Theo Chino to Namecheap.com<BR>
-<A HREF="https://blockchain.info/tx/0ed2232fa55245a603ae043594c1824c3428a9a94789a669388601a3722e042b">https://blockchain.info/tx/0ed2232fa55245a603ae043594c1824c3428a9a94789a669388601a3722e042b</A>
-</P>
- </UL>
-  
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-53115128-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-        
-</body>
-</html>
-
+<? include "live/footer.php" ?>
